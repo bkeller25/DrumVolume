@@ -1,0 +1,18 @@
+snarevol = input("Enter a Snare Volume: ")
+hihatvol = input("Enter a Hi Hat Volume: ")
+bassvol = input("Enter a Bass Drum Volume: ")
+tom1vol = input("Enter Tom 1 Volume: ")
+tom2vol = input("Enter Tom 2 Volume: ")
+floortomvol = input("Enter a Floor Tom Volume: ")
+crashvol = input("Enter a Crash Cymbal Volume: ")
+ridevol = input("Enter a Ride Cymbal Volume: ")
+
+
+print("Snare Volume:  " + snarevol)
+print("Hi Hat Volume: " + hihatvol)
+print("Bass Drum Volume: " + bassvol)
+print("Tom 1 Volume: " + tom1vol)
+print("Tom 2 Volume: " + tom2vol)
+print("Floor Tom Volume:" + floortomvol)
+print("Crash Cymbal Volume: " + crashvol)
+print("Ride Cymbal Volume: " + ridevol)
